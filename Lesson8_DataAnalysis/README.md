@@ -2,7 +2,7 @@
 In this section of the bootcamp, we will be working with raw data from HERA. As part of it, we need to learn how to retrieve raw data. The interface for doing this is called the Librarian, which is currently hosted at Penn.
 
 ## Logging in to the Librarian
-Information for logging into the librarian is not public. Please follow the instructions at the following link to connect: http://herawiki.berkeley.edu/doku.php/librarian
+Information for logging into the librarian is not public. Please follow the instructions at the following link to connect: http://hera.pbworks.com/w/page/117934572/Librarian
 
 ## Retrieving a specific file
 We'll be working with some specific files of HERA data, which we can find with the search bar. We want to download the specific observations corresponding to JD `2457700`. You will notice that all filenames contain a decimal JD in their names. `xx` is the polarization state of the data. `HH` reflects that this is from the "HERA hex" part of the array. The file extension `.uvc` shows that this is a raw `.uv` file that has had some preliminary `c`orrections applied to it.
