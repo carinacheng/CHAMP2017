@@ -251,9 +251,9 @@ def main():
 
     def rfunc(d):
         '''Map the actual distance to the effective ang diameter distance.'''
-        return R * np.sin(d/R) / d # closed
-        #return R * np.sinh(d/R) / d # open
-        #return 1. # flat
+        if sys.argv[-1] == 'closed': return R * np.sin(d/R) / d # closed
+        elif sys.argv[-1] == 'open': return R * np.sinh(d/R) / d # open
+        else: return 1. # flat
 
     while True:
         for ev in pg.event.get():
