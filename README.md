@@ -1,8 +1,8 @@
 # CHAMP_Bootcamp
 
-This repository is for lesson material for CHAMP bootcamp.
+This repository is for lesson material for the CHAMP bootcamp. See http://reionization.org/champ/ for more info.
 
-## 2018 Schedule
+## Schedule for Santa Fe CHAMP Camp, 2018
 | Date/Time | Topic | Primary Instructor(s) |
 | --------- | ----- | -------------------- |
 | 6/11, Morning | Science & Cosmology Overview | Aaron Parsons | 
