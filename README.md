@@ -1,8 +1,8 @@
-# CHAMP_Camp
+# CHAMP_Bootcamp
 
-This repository is for lesson material for CHAMPCAMP 2018. 
+This repository is for lesson material for CHAMP bootcamp.
 
-## Schedule
+## 2018 Schedule
 | Date/Time | Topic | Primary Instructor(s) |
 | --------- | ----- | -------------------- |
 | 6/11, Morning | Science & Cosmology Overview | Aaron Parsons | 
