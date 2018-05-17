@@ -2,6 +2,8 @@
 
 This repository is for lesson material for the CHAMP bootcamp. See http://reionization.org/champ/ for more info.
 
+Post-session evaluation form: https://goo.gl/forms/VcrewwnzC8B01nL83
+
 ## Schedule for Santa Fe CHAMP Camp, 2018
 | Date/Time | Topic | Primary Instructor(s) |
 | --------- | ----- | -------------------- |
