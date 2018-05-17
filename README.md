@@ -16,4 +16,4 @@ Post-session evaluation form: https://goo.gl/forms/VcrewwnzC8B01nL83
 | 6/13, Afternoon | HERA Data: Waterfall plots, delay spectrum | Carina Cheng, Josh Dillon | 
 | 6/14, Morning | Interferometry | Danny Jacobs |
 | 6/14, Afternoon | HERA Data: Applying Calibration and Imaging | Nick Kern, Danny Jacobs | 
-| 6/15, Morning (half-session) | HERA Collaboration Tools (slack, github, wiki, etc.) | Bryna, Danny, Paul |
+| 6/15, Morning (half-session) | HERA Collaboration Tools (slack, github, wiki, etc.) | Bryna Hazelton, Danny Jacobs, Paul La Plante |
