@@ -15,3 +15,4 @@ June, 2018
 2. Gain familiarity with HERA's imaging capabilities
 3. Make some images with HERA data
 
+Note that the data exceeds 1.3 GB, so hard-copy of data products were delivered in person to students.
