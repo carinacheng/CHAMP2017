@@ -3,8 +3,6 @@
 
 Nick Kern
 <br>
-nkern@berkeley.edu
-<br>
 June, 2018
 
 #### Lesson Outline
