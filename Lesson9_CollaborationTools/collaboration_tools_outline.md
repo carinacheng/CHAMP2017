@@ -56,6 +56,7 @@
 * Make a new branch before you start modifying the code (ask for help from your mentor or on Slack). This will make it much easier to flow your work back into the master code.
 * See the [HERA Software Dev Handbook (google doc)](https://docs.google.com/document/d/1hWTem1LwMgASZ4oWzSnVIvj-2-z2McwU6czD3dI5284/edit?usp=sharing) for more.
 * Pull requests are how we work together to make code changes. [Here is an example](https://github.com/HERA-Team/pyuvdata/pull/355).
+* Pull requests are made from branches to the master. Adding changes to the branch adds them to the pull request.
 * Potential Pitfalls
   * Don’t make edits on the master branch of any HERA collaboration repo.
     * You won’t be able to push them up to github and it will take work to move them over to another place.
