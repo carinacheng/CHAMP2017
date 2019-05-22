@@ -2,9 +2,9 @@
 
 This repository is for lesson material for the CHAMP bootcamp. See http://reionization.org/champ/ for more info.
 
-Post-session evaluation form: https://goo.gl/forms/VcrewwnzC8B01nL83
+Post-session evaluation form: https://forms.gle/2JTxYUSwnZGahsrDA
 
-Pre-summer survey (should have been completed before the bootcamp): https://www.surveymonkey.com/r/YLQLMC3
+Pre-summer survey (should have been completed before the bootcamp): https://forms.gle/fcRSUVAu4h6hsFDq7
 
 ## Schedule for Santa Fe CHAMP Camp, 2019
 | Date/Time | Topic | Primary Instructor(s) | Busy Week Topic | 
