@@ -246,3 +246,6 @@ nothing to commit, working directory clean
 > > 1. append either `log_*`  or  `log*`  as a new entry in your .gitignore
 > > 3. track `log_01` using   `git add -f log_01`
 >
+
+
+[Next](09-github.md)

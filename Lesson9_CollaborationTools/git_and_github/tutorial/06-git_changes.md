@@ -791,3 +791,5 @@ repository (`git commit`):
 
 
 [commit-messages]: https://chris.beams.io/posts/git-commit/
+
+[Next](07-git_history.md)

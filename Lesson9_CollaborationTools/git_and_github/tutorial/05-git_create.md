@@ -68,3 +68,5 @@ nothing to commit (create/copy files and use "git add" to track)
 ~~~
 
 Do not create git repositories inside other ones!
+
+[Next](06-git_changes.md)

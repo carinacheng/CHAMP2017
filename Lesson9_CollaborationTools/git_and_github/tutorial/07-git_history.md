@@ -511,3 +511,6 @@ moving backward and forward in time becomes much easier.
 > $ git log --patch HEAD~3 *.txt
 > ~~~
 >
+
+
+[Next](08-git_ignore.md)

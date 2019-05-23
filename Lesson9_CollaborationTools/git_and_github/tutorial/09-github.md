@@ -264,3 +264,6 @@ GitHub, though, this command would download them to our local repository.
 > > ## Solution
 > > In this case, since we already had a README file in our own (local) repository, we'd see a merge conflict (when git realises that there are two versions of the file and asks us to reconcile the differences).
 >
+
+
+[Next](10-git_collab.md)

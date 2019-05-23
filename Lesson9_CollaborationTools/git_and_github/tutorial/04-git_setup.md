@@ -138,3 +138,5 @@ same commands to choose another editor or update your email address.
 
 
 [git-privacy]: https://help.github.com/articles/keeping-your-email-address-private/
+
+[Next](05-git_create.md)
