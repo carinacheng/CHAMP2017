@@ -14,7 +14,7 @@ Pre-summer survey (should have been completed before the bootcamp): https://form
 | Monday Afternoon 6/3 | Intro to Computing (shell) and Python (jupyter basics, python syntax, functions, data structures, control structures, I/O) | Paul La Plante, Bryna Hazelton | IDR2 Status Update: Adrian Liu (errorbars), James Aguirre (validation), broader IDR2 pspec paper contents discussion (N.K. 30min) |
 | Tuesday Morning 6/4 | Radio Astronomy Introduction (what is a visibility?) + HERA System Walkthrough | Aaron Parsons | H3C RTP |
 | Tuesday Afternoon 6/4 | Advanced Python (common imports, OO/classes, making modules, errors and debugging) + Scientific Python (numpy, matplotlib, scipy, etc.) | Steven Murray (advanced python), Josh Dillon (scientific python) | | 
-| Wednesday Morning 6/5 | Fourier Series + Transforms | James Aguirre | | 
+| Wednesday Morning 6/5 | Fourier Series + Transforms | James Aguirre | QM Summary Notebooks - What can we learn from analysis runs? | 
 | Wednesday Afternoon 6/5 | HERA Data I (Waterfalls) | Josh Dillon, Adam Beardsley | |
 | Thursday Morning 6/6 | Interferometry (CASA) | Danny Jacobs | |
 | Thursday Afternoon 6/6 | HERA Data II (calibration and imaging) | Nick Kern, Ridhima Nunhokee | Instrument Decadal White Paper |
