@@ -1,9 +1,9 @@
 ## HERA Data Analysis Part II: Calibration and Imaging
 ---
 
-Nick Kern
+Nick Kern & Ridhima Nunhokee
 <br>
-June, 2018
+June, 2019
 
 #### Lesson Outline
 1. Calibration Overview + Demo
