@@ -2,20 +2,29 @@
 
 This repository is for lesson material for the CHAMP bootcamp. See http://reionization.org/champ/ for more info.
 
-Post-session evaluation form: https://forms.gle/2JTxYUSwnZGahsrDA
+Post-session evaluation form: https://forms.gle/KMieCc6cCExv9VsG6
 
-Pre-summer survey (should have been completed before the bootcamp): https://forms.gle/fcRSUVAu4h6hsFDq7
+Pre-summer survey (should have been completed before the bootcamp): https://forms.gle/z6bTHbxn7dPB86Nm8
 
-## Schedule for Santa Fe CHAMP Camp, 2019
-| Date/Time | Topic | Primary Instructor(s) | Busy Week Topic | 
-| --------- | ----- | --------------------- | --------------- |
-| Monday Morning 6/3 | Intro to Cosmology | Adrian Liu | IDR2 Status Update: Adam Beardsley (RFI), Josh Dillon (redcal), Nick Kern (abscal + systematics), Phil Bull (null tests) | 
-| Lunch 6/3 | Informal introductions: who we are, what we work on, etc. (no slides) | All! | | 
-| Monday Afternoon 6/3 | Intro to Computing (shell) and Python (jupyter basics, python syntax, functions, data structures, control structures, I/O) | Paul La Plante, Bryna Hazelton | IDR2 Status Update: Adrian Liu (errorbars), James Aguirre (validation), broader IDR2 pspec paper contents discussion (N.K. 30min) |
-| Tuesday Morning 6/4 | Radio Astronomy Introduction (what is a visibility?) + HERA System Walkthrough | Aaron Parsons | H3C RTP |
-| Tuesday Afternoon 6/4 | Advanced Python (common imports, OO/classes, making modules, errors and debugging) + Scientific Python (numpy, matplotlib, scipy, etc.) | Steven Murray (advanced python), Josh Dillon (scientific python) | | 
-| Wednesday Morning 6/5 | Fourier Series + Transforms | James Aguirre | QM Summary Notebooks - What can we learn from analysis runs? | 
-| Wednesday Afternoon 6/5 | HERA Data I (Waterfalls) | Josh Dillon, Adam Beardsley | |
-| Thursday Morning 6/6 | Interferometry (CASA) | Danny Jacobs | |
-| Thursday Afternoon 6/6 | HERA Data II (calibration and imaging) | Nick Kern, Ridhima Nunhokee | Instrument Decadal White Paper |
-| Friday Morning 6/7 | HERA Collaboration Tools (slack, github, wiki, etc.) |  Bryna Hazelton, Steven Murray | |
+## Schedule for Virtual CHAMP Camp 2020
+
+### All Times Pacific
+
+| Date/Time | Topic | Primary Instructor(s) |
+| --------- | ----- | --------------------- |
+| Monday 6/1, 9-9:30 | Welcome to CHAMP | Paul La Plante, Aaron Ewall-Wice, Josh Dillon, Danny Jacobs, James Aguirre, Steve Furlanetto, Adrian Liu, Dara Storer, Lindsay Berkhout |
+| Monday 6/1, 9:30-12:30 | Intro to Cosmology | Adrian Liu |
+| Monday 6/1, 2-5  | Intro to Computing (shell) and Python (jupyter basics, python syntax, functions, data structures, control structures, I/O) | Paul La Plante, Bryna Hazelton |
+| Tuesday 6/2 9:30-12:30 | Radio Astronomy Introduction (what is a visibility?) + HERA System Walkthrough | Aaron Parsons | 
+| Tuesday 6/2 2-5 | Advanced Python (common imports, OO/classes, making modules, errors and debugging) + Scientific Python (numpy, matplotlib, scipy, etc.) | Steven Murray (advanced python), Josh Dillon (scientific python) | 
+| Wednesday 6/3 9-12 | Fourier Series + Transforms | James Aguirre | 
+| Wednesday 6/3 12-12:30 | FInformal introductions on HERA general telecon | HERA Collaboration | 
+| Wednesday 6/3 2-3 | HERA Collaboration Tools (slack, github, wiki, etc.) |  Bryna Hazelton, Steven Murray | 
+| Wednesday 6/3 Afternoon | Time for meetings with site advisors |  James Aguirre, Steve Furlanetto, Adrian Liu | 
+| Thursday 6/4 9:30-12:30 | Interferometry (CASA) | Danny Jacobs | 
+| Thursday 6/4 Afternoon | Time for meetings with site advisors |  James Aguirre, Steve Furlanetto, Adrian Liu | 
+| Friday 6/5 9:30-12:30 | HERA Data I (Waterfalls) | Josh Dillon, Aaron Ewall-Wice | 
+| Friday 6/5 Afternoon | Time for meetings with site advisors |  James Aguirre, Steve Furlanetto, Adrian Liu | 
+| Monday 6/8 9:30-12:30 | Reionization Theory and 21cmFAST | Steven Murray | 
+| Tuesday 6/9 9:30-12:30  | HERA Data II (calibration and imaging) | Nick Kern, Ridhima Nunhokee | 
+
