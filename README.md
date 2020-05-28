@@ -18,7 +18,7 @@ Pre-summer survey (should have been completed before the bootcamp): https://form
 | Tuesday 6/2 9:30-12:30 | Radio Astronomy Introduction (what is a visibility?) + HERA System Walkthrough | Aaron Parsons | 
 | Tuesday 6/2 2-5 | Advanced Python (common imports, OO/classes, making modules, errors and debugging) + Scientific Python (numpy, matplotlib, scipy, etc.) | Steven Murray (advanced python), Josh Dillon (scientific python) | 
 | Wednesday 6/3 9-12 | Fourier Series + Transforms | James Aguirre | 
-| Wednesday 6/3 12-12:30 | FInformal introductions on HERA general telecon | HERA Collaboration | 
+| Wednesday 6/3 12-12:30 | Informal introductions on HERA general telecon | HERA Collaboration | 
 | Wednesday 6/3 2-3 | HERA Collaboration Tools (slack, github, wiki, etc.) |  Bryna Hazelton, Steven Murray | 
 | Wednesday 6/3 Afternoon | Time for meetings with site advisors |  James Aguirre, Steve Furlanetto, Adrian Liu | 
 | Thursday 6/4 9:30-12:30 | Interferometry (CASA) | Danny Jacobs | 
