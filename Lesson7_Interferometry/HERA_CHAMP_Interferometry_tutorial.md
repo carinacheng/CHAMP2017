@@ -118,8 +118,8 @@ casa$ viewer('SNR\_G55\_10s.clean.res')#look at the  **residual image**
 ```
 
 
-    Source material for imaging workshop
+**Source material for imaging workshop**
 
-          [https://casaguides.nrao.edu/index.php/VLA\_CASA\_Imaging](https://casaguides.nrao.edu/index.php/VLA_CASA_Imaging)
+[https://casaguides.nrao.edu/index.php/VLA\_CASA\_Imaging](https://casaguides.nrao.edu/index.php/VLA_CASA_Imaging)
 
-          [https://casaguides.nrao.edu/index.php?title=VLA\_Continuum\_Tutorial\_3C391](https://casaguides.nrao.edu/index.php?title=VLA_Continuum_Tutorial_3C391)
+[https://casaguides.nrao.edu/index.php?title=VLA\_Continuum\_Tutorial\_3C391](https://casaguides.nrao.edu/index.php?title=VLA_Continuum_Tutorial_3C391)
