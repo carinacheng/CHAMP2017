@@ -14,6 +14,8 @@ Instructor: Danny Jacobs
 
 Lecture with a few slides.
 
+<img src="https://github.com/HERA-Team/CHAMP_Bootcamp/blob/master/Lesson7_Interferometry/SNR_G55.png" alt="SNR" width="400px" align="right" style="width:100px; align:right;"/>
+
 Goals:
 
 - interferometry measures Fourier modes of the sky
@@ -23,28 +25,39 @@ Goals:
 
 [Notes](http://hera.pbworks.com/w/file/117911112/1271_001.pdf)
 
+
 **Imaging Workshop**
 
-H ![](RackMultipart20200601-4-1sek07c_html_ab07be52911634c3.png) ere we will image some VLA data of a supernova remnant.  Progressively add data to see how the image quality improves, seeing in practice the effects of uv coverage by increasing the number of antennas, and then the amount of time.
+Here we will image some VLA data of a supernova remnant.  Progressively add data to see how the image quality improves, seeing in practice the effects of uv coverage by increasing the number of antennas, and then the amount of time.
 
 Caveat: We will be using CASA, an imaging package developed by the National Radio Astronomy Observatory for use with radio telescopes like the VLA.  Because of the unique nature of HERA, many collaboration members do not use CASA.
 
 Caveat: We are using VLA data because HERA is still under construction, we're still working out how to calibrate it.
 
-Caveat: The VLA data here are stored in &quot;ms&quot; files. Other formats you will see in the collaboration are _uvfits_ which will end in &quot;.fits&quot; and _miriad_
+Caveat: The VLA data here are stored in 'ms'; files. Other formats you will see in the collaboration are _uvfits_ which will end in '.fits' and _miriad_
 
 which will end in '.uv'; (or, more likely, with a more complicated filename like .uvcRRE)
 
 Lets leave the real world behind for a moment and use nicely calibrated data to make images of something cool.
 
-**Setup and get data**
+**Prequel**
+A note about how to read code in the tutorial 
+
+This is what a bash command might look like.  The goal is to give a command you can copy and paste and into which program it goes. Note that the terminal part `bash $` or `casa >` will probably look different on your machine depending on your setup. You don't paste in that part.
 ```
-bash $ cd ~
+bash $  ls   # Comments are indicated with the '#'. You don't need to copy that part.
+. .. test_directory
+bash $ casa  # Start casa
+casa > help  # run the help command in casa.
+```
 
+
+**Setup and get data**
+Set up and run casa. Get data
+```
+bash $ cd ~   #make a directory.  Note that you'll need about 
 bash $ mkdir imaging\_workshop
-
-bash $ cd imaging\_workshop
-
+bash $ cd imaging\_workshop  
 bash $ wget [http://casa.nrao.edu/Data/EVLA/SNRG55/SNR\_G55\_10s.calib.tar.gz](http://casa.nrao.edu/Data/EVLA/SNRG55/SNR_G55_10s.calib.tar.gz)  #download some calibrated VLA data.
 
 bash $ tar -xvzf SNR\_G55\_10s.calib.tar.gz
