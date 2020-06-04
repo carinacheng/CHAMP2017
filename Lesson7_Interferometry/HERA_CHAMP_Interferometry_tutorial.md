@@ -58,7 +58,7 @@ Set up and run casa. Get data
 bash $ cd ~   #make a directory.  Note that you'll need about 
 bash $ mkdir imaging\_workshop
 bash $ cd imaging\_workshop  
-bash $ wget [http://casa.nrao.edu/Data/EVLA/SNRG55/SNR\_G55\_10s.calib.tar.gz](http://casa.nrao.edu/Data/EVLA/SNRG55/SNR_G55_10s.calib.tar.gz)  #download some calibrated VLA data.
+bash $ wget http://casa.nrao.edu/Data/EVLA/SNRG55/SNR_G55_10s.calib.tar.gz  #download some calibrated VLA data.
 bash $ tar -xvzf SNR\_G55\_10s.calib.tar.gz
 ```
 The goal of this tutorial is to examine the various ways &quot;aperture synthesis&quot; can be affected.  The quality of an image has a direct relationship to the amount and kind of samples of the fourier plane.
