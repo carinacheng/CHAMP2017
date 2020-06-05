@@ -5,4 +5,4 @@ collaboration. See [this outline](collaboration_tools_outline.md) for an overvie
 the tools.
 
 The slides that are presented in the session can be found 
-[here](https://docs.google.com/presentation/d/1eN6YI7ZBmYrP-TRi1_E1-y7WXwXCG5mbiDYH06txk_k/edit?usp=sharing).
+[here](https://docs.google.com/presentation/d/1sFx3-fxhSqtncAE9ppIscGM4NZzgOYdLyMvUFBgc6Ns/edit?usp=sharing).
