@@ -56,8 +56,8 @@ casa <1>: help  # run the help command in casa.
 Set up and run casa. Get data
 ```
 bash $ cd ~   #make a directory.  Note that you'll need about 
-bash $ mkdir imaging\_workshop
-bash $ cd imaging\_workshop  
+bash $ mkdir imaging_workshop
+bash $ cd imaging_workshop  
 bash $ wget http://casa.nrao.edu/Data/EVLA/SNRG55/SNR_G55_10s.calib.tar.gz  #download some calibrated VLA data.
 bash $ tar -xvzf SNR_G55_10s.calib.tar.gz
 ```
@@ -69,9 +69,9 @@ Adding VLA antennas.  Start with a single baseline.
 ```
 bash$ casa
 #Make a uv plot of a single baseline (it will be kind of silly)
-casa <1>: plotms(vis='SNR_G55_10s.calib.ms', selectdata=True, timerange='05:48:18~05:48:28', spw='1:32', antenna='0&amp;4', xaxis='U', yaxis='V')
+casa <1>: plotms(vis='SNR_G55_10s.calib.ms', selectdata=True, timerange='05:48:18~05:48:28', spw='1:32', antenna='0&4', xaxis='U', yaxis='V')
 #make a single baseline image
-casa <2>: tclean(vis='SNR_G55_10s.calib.ms', imagename='SNR_G55_10s.2ant',weighting='natural',imsize=540,cell='8arcsec',niter=0,interactive=False, antenna='0&amp;4', timerange='05:48:18~05:48:28', spw='1:32')
+casa <2>: tclean(vis='SNR_G55_10s.calib.ms', imagename='SNR_G55_10s.2ant',weighting='natural',imsize=540,cell='8arcsec',niter=0,interactive=False, antenna='0&4', timerange='05:48:18~05:48:28', spw='1:32')
 casa <3>: viewer('SNR_G55_10s.2ant.psf')#look at the psf
 casa <4>: viewer('SNR_G55_10s.2ant.image')#look at the image
 ```
@@ -79,9 +79,9 @@ Now 10 antennas.
 ```
 #make a uv plot of 10 antennas
 
-casa <1>: plotms(vis='SNR_G55_10s.calib.ms', selectdata=True, timerange='05:48:18~05:48:28', spw='1:32', antenna='0~10&amp;', xaxis='U', yaxis='V')
+casa <1>: plotms(vis='SNR_G55_10s.calib.ms', selectdata=True, timerange='05:48:18~05:48:28', spw='1:32', antenna='0~10&', xaxis='U', yaxis='V')
 #Make an image with 10 antennas
-casa <2>: tclean(vis='SNR_G55_10s.calib.ms', imagename='SNR_G55_10s.10ant',weighting='natural',imsize=540,cell='8arcsec',niter=0,interactive=False,antenna='0~10&amp;', timerange='05:48:18~05:48:28', spw='1:32')
+casa <2>: tclean(vis='SNR_G55_10s.calib.ms', imagename='SNR_G55_10s.10ant',weighting='natural',imsize=540,cell='8arcsec',niter=0,interactive=False,antenna='0~10&', timerange='05:48:18~05:48:28', spw='1:32')
 casa <3>: viewer('SNR_G55_10s.10ant.psf')#look at the psf
 casa <4>: viewer('SNR_G55_10s.10ant.image')#look at the image
 ```
@@ -89,7 +89,7 @@ The full array!
 
 #make a uv plot with all antennas
 ```
-casa <1>: plotms(vis='SNR_G55_10s.calib.ms', selectdata=True, timerange='05:48:18~05:48:28', spw='1:32', antenna='0&amp;4', xaxis='U', yaxis='V')
+casa <1>: plotms(vis='SNR_G55_10s.calib.ms', selectdata=True, timerange='05:48:18~05:48:28', spw='1:32', xaxis='U', yaxis='V')
 #Make an image with all antennas
 casa <2>: tclean(vis='SNR_G55_10s.calib.ms', imagename='SNR_G55_10s.allant',weighting='natural',imsize=540,cell='8arcsec',niter=0,interactive=False, timerange='05:48:18~05:48:28', spw='1:32')
 casa <3>: viewer('SNR_G55_10s.allant.psf')#look at the psf
@@ -100,7 +100,7 @@ casa <4>: viewer('SNR_G55_10s.allant.image')#look at the image
 **Time**
 ```
 #lets increase the amount of time data from 10 seconds to 9 hours
-casa <1>: plotms(vis='SNR_G55_10s.calib.ms', selectdata=True, spw='1:32', antenna='0&amp;4', xaxis='U', yaxis='V')
+casa <1>: plotms(vis='SNR_G55_10s.calib.ms', selectdata=True, spw='1:32', antenna='0&4', xaxis='U', yaxis='V')
 casa <2>: tclean(vis='SNR_G55_10s.calib.ms', imagename='SNR_G55_10s.alltime',weighting='natural',imsize=540,cell='8arcsec',niter=0,interactive=False, spw='1:32')
 casa <3>: viewer('SNR_G55_10s.alltime.psf')#look at the psf
 casa <4>: viewer('SNR_G55_10s.alltime.image')#look at the image
@@ -114,7 +114,7 @@ Deconvolves or removes the psf.
 casa <1>: tclean(vis='SNR_G55_10s.calib.ms', imagename='SNR_G55_10s.clean',weighting='natural',imsize=540,cell='8arcsec',niter=1000,interactive=True, spw='1:32')
 casa <2>: viewer('SNR_G55_10s.clean.psf')#look at the  **dirty image**
 casa <3>: viewer('SNR_G55_10s.clean.image')#look at the  **cleaned image**
-casa <4>: viewer('SNR_G55_10s.clean.res')#look at the  **residual image**
+casa <4>: viewer('SNR_G55_10s.clean.residual')#look at the  **residual image**
 ```
 
 
