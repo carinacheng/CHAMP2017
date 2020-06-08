@@ -25,6 +25,6 @@ Pre-summer survey (should have been completed before the bootcamp): https://form
 | Thursday 6/4 Afternoon | Time for meetings with site advisors |  James Aguirre, Steve Furlanetto, Adrian Liu | 
 | Friday 6/5 9:30-12:30 | [HERA Data I](Lesson8_HERADataPartI) (Waterfalls) | Josh Dillon, Aaron Ewall-Wice | 
 | Friday 6/5 Afternoon | Time for meetings with site advisors |  James Aguirre, Steve Furlanetto, Adrian Liu | 
-| Monday 6/8 9:30-12:30 | [Reionization Theory and 21cmFAST](Lesson9_Reionization_and_21cmFAST) | Steven Murray | 
+| Monday 6/8 9:30-12:30 | [Reionization Theory and 21cmFAST](Lesson9_Reionization_and_21cmFAST) | Steven Murray, Paul La Plante | 
 | Tuesday 6/9 9:30-12:30  | [HERA Data II](Lesson10_HERADataPartII) (calibration and imaging) | Nick Kern, Ridhima Nunhokee | 
 
