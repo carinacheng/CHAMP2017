@@ -3,7 +3,7 @@
 
 Nick Kern & Ridhima Nunhokee
 <br>
-June, 2019
+June, 2020
 
 #### Lesson Outline
 1. Calibration Overview + Demo
@@ -16,3 +16,6 @@ June, 2019
 3. Make some images with HERA data
 
 Note that the data exceeds 1.3 GB, so hard-copy of data products were delivered in person to students.
+
+2020 Notes:
+Recent CASA versions have deprecated `plotuv`
