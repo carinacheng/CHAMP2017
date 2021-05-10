@@ -20,10 +20,10 @@ Pre-summer survey (should have been completed before the bootcamp): TODO
 | Wednesday 6/9 9-12 | [Fourier Series + Transforms](Lesson5_Fourier) | James Aguirre | 
 | Wednesday 6/9 12-12:30 | Informal introductions on HERA general telecon | HERA Collaboration | 
 | Wednesday 6/9 2-3 | [HERA Collaboration Tools](Lesson6_CollaborationTools) (slack, github, wiki, etc.) |  Jordan Mirocha, Steven Murray | 
-| Wednesday 6/9 Afternoon | Time for meetings with site advisors |  Pober, Liu, Morales, Aguirre, Parsons | 
+| Wednesday 6/9 Afternoon | Free time / meeting w/ site advisors |  Pober, Liu, Morales, Aguirre, Parsons | 
 | Thursday 6/10 9:30-12:30 | [Interferometry](Lesson7_Interferometry) (CASA) | Danny Jacobs | 
-| Thursday 6/10 Afternoon | Time for meetings with site advisors |  Pober, Liu, Morales, Aguirre, Parsons | 
+| Thursday 6/10 Afternoon | Free time / meeting w/ site advisors |  Pober, Liu, Morales, Aguirre, Parsons | 
 | Friday 6/11 9:30-12:30 | [HERA Data I](Lesson8_HERADataPartI) (Waterfalls) | Josh Dillon, Aaron Ewall-Wice | 
-| Friday 6/11 Afternoon | Time for meetings with site advisors |  Pober, Liu, Morales, Aguirre, Parsons | 
+| Friday 6/11 Afternoon | Free time / meeting w/ site advisors |  Pober, Liu, Morales, Aguirre, Parsons | 
 | Monday 6/14 9:30-12:30 | [Reionization Theory and 21cmFAST](Lesson9_Reionization_and_21cmFAST) | Steven Murray, Paul La Plante | 
 | Tuesday 6/15 9:30-12:30  | [HERA Data II](Lesson10_HERADataPartII) (calibration and imaging) | Nick Kern, Ridhima Nunhokee | 
