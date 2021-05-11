@@ -1,0 +1,21 @@
+name: hera
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - aipy
+  - astropy
+  - ephem
+  - h5py
+  - healpy
+  - ipython
+  - jupyter
+  - matplotlib
+  - numpy
+  - pip
+  - pyuvdata
+  - scikit-learn
+  - scipy
+  - pip:
+      - git+https://github.com/HERA-Team/uvtools
+      - git+https://github.com/HERA-Team/hera_cal
