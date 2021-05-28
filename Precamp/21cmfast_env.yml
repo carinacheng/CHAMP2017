@@ -1,0 +1,10 @@
+name: 21cmfast
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - 21cmFAST
+  - astropy
+  - ipython
+  - jupyter
+  - nb_conda
