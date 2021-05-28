@@ -19,7 +19,7 @@ Pre-summer survey (should have been completed before the bootcamp): TODO
 | Tuesday 6/8 2-5 | [Advanced Python](Lesson4_PythonProgramming) (common imports, OO/classes, making modules, errors and debugging) + Scientific Python (numpy, matplotlib, scipy, etc.) | Steven Murray (advanced python), Josh Dillon (scientific python) | 
 | Wednesday 6/9 9-12:30 | [Fourier Series + Transforms](Lesson5_Fourier) | James Aguirre | 
 | Wednesday 6/9 2-3 | [HERA Collaboration Tools](Lesson6_CollaborationTools) (slack, github, wiki, etc.) |  Jordan Mirocha, Steven Murray | 
-| Wednesday 6/9 Afternoon | Free time / meeting w/ site advisors |  Pober, Liu, Morales, Aguirre, Parsons | 
+| Wednesday 6/9 3:30-4 | Diversity, Equity and Inclusion |  Parsons | 
 | Thursday 6/10 8-9 | Informal introductions on HERA general telecon | HERA Collaboration | 
 | Thursday 6/10 9:30-12:30 | [Interferometry](Lesson7_Interferometry) (CASA) | Danny Jacobs | 
 | Thursday 6/10 Afternoon | Free time / meeting w/ site advisors |  Pober, Liu, Morales, Aguirre, Parsons | 
