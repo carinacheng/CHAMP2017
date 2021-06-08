@@ -1,3 +1,0 @@
-ssh login.aoc.nrao.edu -L 8000:herapost-master:8000
-
-ipython kernel install --user --name hera
