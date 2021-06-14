@@ -3,7 +3,7 @@
 
 Nick Kern & Ridhima Nunhokee
 <br>
-June, 2020
+June, 2021
 
 #### Lesson Outline
 1. Calibration Overview + Demo
@@ -15,7 +15,10 @@ June, 2020
 2. Gain familiarity with HERA's imaging capabilities
 3. Make some images with HERA data
 
-Note that the data exceeds 1.3 GB, so hard-copy of data products were delivered in person to students.
+2021 Notes:
+This year we did all computing remotely at NRAO. All students were given NRAO accounts, data were kept on nkern lustre space and copied
+over to student space at beginning of the lesson.
 
 2020 Notes:
 Recent CASA versions have deprecated `plotuv`
+Note that the data exceeds 1.3 GB, so hard-copy of data products were delivered in person to students.

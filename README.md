@@ -22,7 +22,7 @@ Pre-summer survey (should have been completed before the bootcamp): TODO
 | Wednesday 6/9 3:30-4 | Diversity, Equity and Inclusion |  Parsons | 
 | Thursday 6/10 8-9 | Informal introductions on HERA general telecon | HERA Collaboration | 
 | Thursday 6/10 Morning | Free time / meeting w/ site advisors |  Pober, Liu, Morales, Aguirre, Parsons | 
-| Thursday 6/10 2-5 | [Interferometry](Lesson7_Interferometry) (CASA) | Danny Jacobs | 
+| Thursday 6/10 Afternoon | [Interferometry](Lesson7_Interferometry) (CASA) | Danny Jacobs | 
 | Friday 6/11 9:30-12:30 | [HERA Data I](Lesson8_HERADataPartI) (Waterfalls) | Josh Dillon, Aaron Ewall-Wice | 
 | Friday 6/11 Afternoon | Free time / meeting w/ site advisors |  Pober, Liu, Morales, Aguirre, Parsons | 
 | Monday 6/14 9:30-12:30 | [Reionization Theory and 21cmFAST](Lesson9_Reionization_and_21cmFAST) | Steven Murray, Paul La Plante | 
