@@ -8,3 +8,5 @@ dependencies:
   - ipython
   - jupyter
   - nb_conda
+  pip:
+    - powerbox
