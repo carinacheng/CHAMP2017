@@ -1,3 +1,6 @@
 *.ipynb_checkpoints
 *-checkpoint.ipynb
-*Breakout_Solutions.ipynb
+*.DS_Store
+
+\.idea/
+Data_Science_Problem_Sets/Signal_Processing_with_LIGO/temp.wav
